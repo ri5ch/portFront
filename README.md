@@ -27,7 +27,7 @@ link :  https://www.loom.com/share/548cf3c83b144c278b6c16b772a7c027?sid=83f204fc
 ---
 
  
- Instalación local
+## Instalación local
 ```bash
 # Clonar el repositorio
 git clone https://github.com/ri5ch/portfolio-front.git
